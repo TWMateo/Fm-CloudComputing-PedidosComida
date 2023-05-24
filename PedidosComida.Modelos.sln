@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PedidosComida.Modelos", "PedidosComida.Modelos.csproj", "{67C1E38B-8FA4-4242-A84A-678065FFF3EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PedidosComida.API", "..\PedidosComida.API\PedidosComida.API.csproj", "{37DC88C4-1ACA-443E-9C5B-0E0BFD009222}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PedidosComida.UAPI", "..\PedidosComida.UAPI\PedidosComida.UAPI.csproj", "{3181FA3C-A83C-4E02-9D60-76959999255F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PedidosComida.ConsolaTest", "..\PedidosComida.ConsolaTest\PedidosComida.ConsolaTest.csproj", "{28E30288-44FD-4860-A74A-9BE0630D6964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidosComida.webMVC", "..\PedidosComida.webMVC\PedidosComida.webMVC.csproj", "{2C9F38B7-12CB-4724-ADAD-86159F67D77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67C1E38B-8FA4-4242-A84A-678065FFF3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C1E38B-8FA4-4242-A84A-678065FFF3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C1E38B-8FA4-4242-A84A-678065FFF3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C1E38B-8FA4-4242-A84A-678065FFF3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DC88C4-1ACA-443E-9C5B-0E0BFD009222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DC88C4-1ACA-443E-9C5B-0E0BFD009222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DC88C4-1ACA-443E-9C5B-0E0BFD009222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DC88C4-1ACA-443E-9C5B-0E0BFD009222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3181FA3C-A83C-4E02-9D60-76959999255F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3181FA3C-A83C-4E02-9D60-76959999255F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3181FA3C-A83C-4E02-9D60-76959999255F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3181FA3C-A83C-4E02-9D60-76959999255F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E30288-44FD-4860-A74A-9BE0630D6964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E30288-44FD-4860-A74A-9BE0630D6964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E30288-44FD-4860-A74A-9BE0630D6964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E30288-44FD-4860-A74A-9BE0630D6964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9F38B7-12CB-4724-ADAD-86159F67D77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9F38B7-12CB-4724-ADAD-86159F67D77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9F38B7-12CB-4724-ADAD-86159F67D77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9F38B7-12CB-4724-ADAD-86159F67D77E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7953C103-29D8-411E-BCC1-14D45DC16C37}
+	EndGlobalSection
+EndGlobal
